@@ -95,7 +95,7 @@ class ViewController: UIViewController {
                 
                 
             case 0 :
-                msg = "졌어요"
+                msg = "네..졌어요 "
             case 1 :
                 msg = "비겼어요"
             case 2 :
