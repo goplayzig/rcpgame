@@ -79,7 +79,7 @@ class ViewController: UIViewController {
             case 1:
                 msg = "이겼어요!"
             case 2:
-                msg = "졌어요ㅠㅁㅠ.."
+                msg = "졌어요ㅠㅁㅠ1"
                 
             default :
                 break
